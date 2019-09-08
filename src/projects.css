@@ -1,3 +1,7 @@
 .custom {
     align-content: center;
 }
+
+div {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
